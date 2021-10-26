@@ -21,5 +21,5 @@
 ![A to Z Sort](CustomList%20AtoZ%20sort.png)
 
 **Z to A Sort**
-![Z to A Sort]()
+![Z to A Sort](CustomList%20ZtoA%20sort.png)
 
