@@ -12,14 +12,14 @@
 
 
 **Ascending Sort**
-![]()
+![Ascending Sort]()
 
 **Descending Sort**
-![]()
+![Descending Sort]()
 
 **A to Z Sort**
-![]()
+![A to Z Sort]()
 
 **Z to A Sort**
-![]()
+![Z to A Sort]()
 
