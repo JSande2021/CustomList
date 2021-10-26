@@ -18,7 +18,7 @@
 ![Descending Sort](CustomList%20Descending%20sort.png)
 
 **A to Z Sort**
-![A to Z Sort]()
+![A to Z Sort](CustomList%20AtoZ%20sort.png)
 
 **Z to A Sort**
 ![Z to A Sort]()
